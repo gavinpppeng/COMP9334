@@ -1,4 +1,4 @@
-# UNSW COMP9334 19T1
+# UNSW COMP9334 Capacity Planning of Computer Systems and Networks 19T1
 #
 Assignment 14.8/15
 #
